@@ -1,3 +1,8 @@
-body{font-size: 16px;}
-text-align:center;}
-.negrito{color:red;}
+body{background-attachment:gray;
+     font-size: 16px;
+  text-align: center;}
+
+  .negrito{color:red;
+}
+
+.imagem{width: ;}
