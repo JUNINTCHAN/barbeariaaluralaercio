@@ -1,8 +1,19 @@
-body{background-attachment:gray;
-     font-size: 16px;
-  text-align: center;}
+body{  font-size: 16px;
+  }
+
+ .principal{background-attachment:gray; 
+    text-align: center;}
+
 
   .negrito{color:red;
 }
+   
+   .beneficio{text-align: center;}
 
-.imagem{width: ;}
+    .imagem-beneficio {width: 100%;}
+
+
+.imagem{width: 100%;}
+
+
+ .titulo {padding: 20px;}
